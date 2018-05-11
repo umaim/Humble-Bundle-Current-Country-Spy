@@ -5,7 +5,7 @@
 // @namespace    https://github.com/Cloud-Swift/Humble-Bundle-Current-Country-Spy
 // @supportURL   https://github.com/Cloud-Swift/Humble-Bundle-Current-Country-Spy/issues
 // @version      1.0.0
-// @downloadURL  
+// @downloadURL  https://raw.githubusercontent.com/Cloud-Swift/Humble-Bundle-Current-Country-Spy/master/HBCCS.user.js
 // @icon         https://humblebundle-a.akamaihd.net/static/hashed/46cf2ed85a0641bfdc052121786440c70da77d75.png
 // @include      https://www.humblebundle.com/*
 // @run-at       document-end
