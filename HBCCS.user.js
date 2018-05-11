@@ -23,7 +23,7 @@
                     let node = document.getElementsByClassName('tabs tabs-navbar-item js-tabs-navbar-item js-maintain-scrollbar-on-dropdown');
 
                     if (node.item(0)) {
-                        node.item(0).innerHTML += `<span class="navbar-item">${country}</span>`;
+                        node.item(0).innerHTML += `<span class="navbar-item navbar-item js-hide-dropdown not-dropdown button-title">${country}</span>`;
                     }
                 } catch (e) {
                     setTimeout(() => {
