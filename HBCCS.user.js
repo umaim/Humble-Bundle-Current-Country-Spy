@@ -2,10 +2,10 @@
 // @name         Humble Bundle Current Country Spy
 // @description  Show current Humble Bundle country in navbar.
 // @author       Cloud
-// @namespace    https://github.com/Cloud-Swift/Humble-Bundle-Current-Country-Spy
-// @supportURL   https://github.com/Cloud-Swift/Humble-Bundle-Current-Country-Spy/issues
-// @version      1.1.0
-// @downloadURL  https://raw.githubusercontent.com/Cloud-Swift/Humble-Bundle-Current-Country-Spy/master/HBCCS.user.js
+// @namespace    https://github.com/thePixv/Humble-Bundle-Current-Country-Spy
+// @supportURL   https://github.com/thePixv/Humble-Bundle-Current-Country-Spy/issues
+// @version      1.1.1
+// @downloadURL  https://raw.githubusercontent.com/thePixv/Humble-Bundle-Current-Country-Spy/master/HBCCS.user.js
 // @icon         https://humblebundle-a.akamaihd.net/static/hashed/46cf2ed85a0641bfdc052121786440c70da77d75.png
 // @include      https://www.humblebundle.com/*
 // @run-at       document-end
