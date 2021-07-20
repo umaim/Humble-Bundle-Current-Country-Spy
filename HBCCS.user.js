@@ -19,7 +19,7 @@
         try {
             const country = unsafeWindow.models.request.country_code;
 
-            let node = document.getElementsByClassName('tabs tabs-navbar-item js-tabs-navbar-item js-maintain-scrollbar-on-dropdown');
+            let node = document.getElementsByClassName('tabs tabs-navbar-item');
 
             if (node.item(0)) {
                 let elem = document.createElement('a');
